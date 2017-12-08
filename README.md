@@ -1,9 +1,7 @@
-# 🌎 parcel-website
+# 🌎 parceljs中文网
 
-This is the source of the [parceljs.org](https://parceljs.org) website.
+这个仓库存放 [parceljs.org](https://parceljs.org) 网站的中文翻译。
 
-Aside from the homepage, each documentation page is generated from a markdown file using the [markdown-styles](https://github.com/mixu/markdown-styles) generator.
+##  贡献
 
-## Contributing
-
-You can start a local server using `npm start` to run it locally, once you installed all packages `npm install` and built the files `npm run build`. It is deployed using [Zeit Now](https://zeit.co/now).
+如果你也想翻译，请直接提PR。
